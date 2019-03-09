@@ -1,0 +1,1 @@
+main file open file at the given path and picks values for time and no of objs.
